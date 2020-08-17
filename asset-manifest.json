@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Subhadeep/static/css/main.c6fc75b0.chunk.css",
+    "main.js": "/Subhadeep/static/js/main.a25ca242.chunk.js",
+    "main.js.map": "/Subhadeep/static/js/main.a25ca242.chunk.js.map",
+    "runtime-main.js": "/Subhadeep/static/js/runtime-main.b9d526f2.js",
+    "runtime-main.js.map": "/Subhadeep/static/js/runtime-main.b9d526f2.js.map",
+    "static/js/2.fa9b2aea.chunk.js": "/Subhadeep/static/js/2.fa9b2aea.chunk.js",
+    "static/js/2.fa9b2aea.chunk.js.map": "/Subhadeep/static/js/2.fa9b2aea.chunk.js.map",
+    "index.html": "/Subhadeep/index.html",
+    "precache-manifest.509cc5f0366027ade1d6b1773ef40f31.js": "/Subhadeep/precache-manifest.509cc5f0366027ade1d6b1773ef40f31.js",
+    "service-worker.js": "/Subhadeep/service-worker.js",
+    "static/css/main.c6fc75b0.chunk.css.map": "/Subhadeep/static/css/main.c6fc75b0.chunk.css.map",
+    "static/js/2.fa9b2aea.chunk.js.LICENSE.txt": "/Subhadeep/static/js/2.fa9b2aea.chunk.js.LICENSE.txt",
+    "static/media/MyAvatar.jpg": "/Subhadeep/static/media/MyAvatar.3dd218e1.jpg",
+    "static/media/Wel.gif": "/Subhadeep/static/media/Wel.0160a488.gif",
+    "static/media/App.css": "/Subhadeep/static/media/coffee-apple.2dd213aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d526f2.js",
+    "static/js/2.fa9b2aea.chunk.js",
+    "static/css/main.c6fc75b0.chunk.css",
+    "static/js/main.a25ca242.chunk.js"
+  ]
+}
